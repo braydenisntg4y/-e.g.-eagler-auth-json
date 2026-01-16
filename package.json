@@ -1,0 +1,1 @@
+{ "name": "fortday", "version": "1.0.0", "description": "FortDay project scaffold", "main": "server/src/server.js", "scripts": { "start": "node server/src/server.js" }, "dependencies": {}, "devDependencies": {} }
